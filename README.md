@@ -39,8 +39,8 @@ On the Services page (and the Home page preview), each service card uses a small
 Recommended size: 300x300px (square). Replace each placeholder with a relevant photo or icon graphic — they display inside a circular frame.
 
 ## Contact Details
-- All enquiry emails go to: **ezekiels5050@gmail.com** (footer, contact page, and the contact form which opens a pre-filled email).
-- WhatsApp number: **+233 50 062 7136** — used for the footer link and the floating WhatsApp button visible on every page (bottom-left).
+- All enquiry emails go to: **philip@whitepagesportsconsult.com** (footer, contact page, and the contact form which opens a pre-filled email).
+- WhatsApp number: **+44 744 828 5185** — used for the footer link and the floating WhatsApp button visible on every page (bottom-left).
 
 ## Adding Your Own Images
 Every spot where an image should go is marked with a dashed-border placeholder box that says **"Add Image"** along with the recommended size, e.g.:
@@ -83,7 +83,7 @@ All design tokens (colors, fonts, spacing) are defined at the top of `css/style.
 Just open `index.html` in a browser, or use a local server (e.g. VS Code's "Live Server" extension) for the best experience with smooth navigation between pages.
 
 ## Contact Form
-The contact form on `contact.html` opens the visitor's email client with a pre-filled message addressed to **ezekiels5050@gmail.com**. For a fully automated experience (no email client required), connect it to a service like Formspree or EmailJS.
+The contact form on `contact.html` opens the visitor's email client with a pre-filled message addressed to **philip@whitepagesportsconsult.com**. For a fully automated experience (no email client required), connect it to a service like Formspree or EmailJS.
 
 ---
 
